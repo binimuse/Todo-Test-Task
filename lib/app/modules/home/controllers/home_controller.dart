@@ -1,6 +1,6 @@
 import 'package:get/get.dart';
-import '../../../models/todo.dart';
-import '../../../services/api_service.dart';
+import '../../../data/models/todo.dart';
+import '../../../data/services/api_service.dart';
 
 class HomeController extends GetxController {
   final ApiService _apiService = ApiService();

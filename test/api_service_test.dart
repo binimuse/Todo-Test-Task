@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:flutter_test_task/app/services/api_service.dart';
-import 'package:flutter_test_task/app/models/todo.dart';
+import 'package:flutter_test_task/app/data/services/api_service.dart';
+import 'package:flutter_test_task/app/data/models/todo.dart';
 
 void main() {
   group('ApiService Tests', () {
